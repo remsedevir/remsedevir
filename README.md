@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caroline!
 - 👀 I’m interested in biomedical statistics and medicine.
-- 🌱 I’m currently learning python and processing.
+- 🌱 I’m currently learning rust.
 
 <!---
 remsedevir/remsedevir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
